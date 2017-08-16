@@ -6,6 +6,6 @@ There are two implementations for the same game, one large file, and one seperat
 
 Download the game from:
 
-https://play.google.com/store/apps/details?id=com.balanceball
-https://itunes.apple.com/us/app/fluffy-balance/id1257399504
+* Android: https://play.google.com/store/apps/details?id=com.balanceball 
+* iOS: https://itunes.apple.com/us/app/fluffy-balance/id1257399504
 
